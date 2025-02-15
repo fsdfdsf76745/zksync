@@ -6,9 +6,7 @@
 
 ---
 
-🔔 <b>Subscribe to me:</b> https://t.me/sybilwave
-
-🤑 <b>Donate me:</b> 0x00000b0ddce0bfda4531542ad1f2f5fad7b9cde9
+🤑 <b>Donate me:</b> 0x435f4aeDE84B37D2269a9473E1F17976CE6863BA
 
 ---
 <h2>🚀 Installation</h2>
